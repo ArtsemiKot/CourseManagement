@@ -1,0 +1,24 @@
+.wrapper {
+    width: 800px;
+    margin: 50px auto;
+
+    .name {
+        display: flex;
+        justify-content: space-between;
+        width: 640px;
+        margin-bottom: 20px;
+
+        h3 {
+            font: 700 20px Inter;
+        }
+    }
+
+    .course {
+        margin-bottom: 20px;
+
+        p {
+            font: 700 16px Inter;
+        }
+    }
+
+}

@@ -1,0 +1,24 @@
+.wrapper {
+    width: 1000px;
+    display: flex;
+    align-items: center;
+
+    .admin {
+        width: 250px;
+        display: flex;
+        justify-content: space-between;
+        margin-left: 100px;
+    }
+
+    h1 {
+        font: 600 36px Poppins;
+    }
+
+    p {
+        font: 500 16px Inter;
+    }
+
+    p:last-child {
+        color: #5E96FC;
+    }
+}

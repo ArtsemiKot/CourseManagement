@@ -5,7 +5,7 @@
     .name {
         display: flex;
         justify-content: space-between;
-        width: 640px;
+        margin-top: 20px;
         margin-bottom: 20px;
 
         h3 {
@@ -17,6 +17,7 @@
         margin-bottom: 20px;
 
         p {
+            margin-bottom: 10px;
             font: 700 16px Inter;
         }
     }

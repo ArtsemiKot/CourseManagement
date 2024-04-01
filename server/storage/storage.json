@@ -1,1 +1,68 @@
-[]
+[
+    {
+        "id": "1",
+        "title": "JS",
+        "info": "test",
+        "city": "minsk"
+    },
+    {
+        "id": "2",
+        "title": "TS",
+        "info": "test",
+        "city": "minsk"
+    },
+    {
+        "id": "3",
+        "title": "С++",
+        "info": "test",
+        "city": "minsk"
+    },
+    {
+        "id": "4",
+        "title": "C#",
+        "info": "test",
+        "city": "minsk"
+    },
+    {
+        "id": "5",
+        "title": "Pyton",
+        "info": "test",
+        "city": "minsk"
+    },
+    {
+        "id": "6",
+        "title": "Java",
+        "info": "test",
+        "city": "minsk"
+    },
+    {
+        "id": "7",
+        "title": "PHP",
+        "info": "test",
+        "city": "minsk"
+    },
+    {
+        "id": "8",
+        "title": "HCL",
+        "info": "test",
+        "city": "minsk"
+    },
+    {
+        "id": "9",
+        "title": "C",
+        "info": "test",
+        "city": "minsk"
+    },
+    {
+        "id": "10",
+        "title": "Go",
+        "info": "test",
+        "city": "minsk"
+    },
+    {
+        "id": "11",
+        "title": "Ruby",
+        "info": "test",
+        "city": "minsk"
+    }
+]

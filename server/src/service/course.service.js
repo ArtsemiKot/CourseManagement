@@ -22,7 +22,7 @@ class CourseService {
 
   createCourse(course) {
     const storage = JSON.parse(readFileSync(this.path));
-    storage.push({ id: uuid.v1(), ...course });
+    storage.push({ ...course, id: uuid.v1() });
     writeFileSync(this.path, JSON.stringify(storage));
   }
 
